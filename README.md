@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @movance
-- 👀 I’m interested in Design and Code
-- 🌱 I master technologies like HTML, CSS, JS, Vue JS, PHP, Java , J2EE, Laravel
-- 💞️ I’m looking to collaborate on front-end develloper and back-end
+- 👋 Hi, I’m @Mohamed SALIFOU
+- 👀 I’m AI and Software engineering enthusiast
+- 🌱 I master technologies like HTML, CSS, JS, Vue JS, PHP, Java , J2EE, Laravel, Python
 - 📫 How to reach me msalifou149@gmail.com
 
 <!---
